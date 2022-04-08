@@ -40,7 +40,7 @@ Selanjutnya Anda bisa mengekstraknya dengan 7zip.
 
 Pastikan Anda mengekstraknya ke dalam folder terpisah agar tidak berantakan.
 
-Kalau dengan 7zip dengan memilih "**Extract Here**"
+Kalau dengan 7zip dengan memilih "**Extract to wxWidgets-3.0.5**"
 
 ### 4. Mem-Build wxWidgets 3.0.5 dengan Visual Studio
 
