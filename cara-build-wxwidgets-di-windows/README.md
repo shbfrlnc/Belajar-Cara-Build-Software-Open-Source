@@ -40,13 +40,17 @@ Selanjutnya Anda bisa mengekstraknya dengan 7zip.
 
 Pastikan Anda mengekstraknya ke dalam folder terpisah agar tidak berantakan.
 
-Kalau dengan 7zip dengan memilih "**Extract to wxWidgets-3.0.5**"
+Kalau dengan 7zip dengan memilih "**Extract to wxWidgets-3.0.5**".
+
+![ScreenShot](assets/gambar1.png?raw=true)
 
 ### 4. Mem-Build wxWidgets 3.0.5 dengan Visual Studio
 
 Setelah diekstrak, buka "**Windows Explorer**" ke dalam folder "**wxWidgets-3.0.5**".
 
 Masuk ke folder "**build/msw**" dan temukan file "**wx_vc12.sln**".
+
+![ScreenShot](assets/gambar2.png?raw=true)
 
 Buka file .sln tadi dengan "**Visual Studio Community 2022**".
 
@@ -59,6 +63,8 @@ Nanti akan muncul dialog yang berisi daftar centang.
 Di sini, klik "**Select Al**l".
 
 Kemudian, klik "**Build**".
+
+![ScreenShot](assets/gambar3.png?raw=true)
 
 Proses build akan sedikit memakan waktu. Harap menunggu.
 
@@ -97,3 +103,5 @@ Saat baru dibuka "**Save All**" dan jika ada tawaran untuk membuat Solution, sav
 Selanjutnya, buka "**menu > Debug > Start Without Debugging**".
 
 Jika proses build lancar, maka akan tampil sebuah window GUI.
+
+![ScreenShot](assets/gambar4.png?raw=true)
