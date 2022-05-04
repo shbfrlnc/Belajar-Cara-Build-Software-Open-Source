@@ -11,8 +11,8 @@ Berikut ini daftar artikelnya:
 - [Cara Build wxWidgets di Windows](https://github.com/shbfrlnc/Belajar-Cara-Build-Software-Open-Source/tree/main/cara-build-wxwidgets-di-windows)
 - [Cara Build Godot Engine di Windows](https://github.com/shbfrlnc/Belajar-Cara-Build-Software-Open-Source/tree/main/cara-build-godot-engine-di-windows)
 
-## More Info
+## Info Lebih Lanjut
 
-Support me, my youtube channel, etc:
+TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
 
 - https://shbfrlnc.github.io
